@@ -1,7 +1,8 @@
 /*
  * File:   main.c
  * Author: Hao
- *
+ * 
+ * Ankle Orthosis Controller
  */
 
 #if defined(__XC16__)
